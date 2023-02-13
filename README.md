@@ -1,8 +1,8 @@
-##This is a sample Formik Form
+## This is a sample Formik Form
 
-#Created w/ React App
+# Created w/ React App
 
-/ This is a sample Formik Form
+/This is a sample Formik Form
 
 #npm start
 
